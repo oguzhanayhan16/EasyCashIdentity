@@ -1,6 +1,6 @@
 # 🔐 ASP.NET Core Identity Project
 
-This is an **ASP.NET Core Identity** project that provides user authentication and authorization functionalities. It supports features such as user registration, login, role management, password hashing, and token-based authentication (JWT). The project can be integrated into larger applications such as e-commerce platforms, admin dashboards, or APIs requiring secure access.
+This is an **ASP.NET Core Identity** project that provides user authentication and authorization functionalities. It supports features such as user registration, login, role management, password hashing.
 
 ## 🚀 Features
 
